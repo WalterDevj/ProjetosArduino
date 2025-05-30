@@ -16,7 +16,7 @@ Para o desenvolvimento do dispositivo foi utilizada a plataforma do Arduino com 
 
 # 📖 Schema
 
-<p>##Experimento Geral </p>
+##Experimento Geral
 ![Experimento_geral](https://github.com/user-attachments/assets/ebf2105d-0ce8-4306-843c-c7cb565e17c3)
 
 
