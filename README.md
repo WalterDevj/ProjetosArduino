@@ -21,7 +21,7 @@ Para o desenvolvimento do dispositivo foi utilizada a plataforma do Arduino com 
 
 Você pode acessar o experimento completo no Tinkercad pelo link abaixo:
 
-[![Abrir no Tinkercad](https://upload.wikimedia.org/wikipedia/commons/9/99/Tinkercad_Logo.png)](https://www.tinkercad.com/things/jHm5STfQthA-experimento-geral?sharecode=Jc-jXrynZbuWV-gNkmHirG5Wj00UXDoqEpOpGsOy5CQ)
+[![Abrir no Tinkercad]](https://www.tinkercad.com/things/jHm5STfQthA-experimento-geral?sharecode=Jc-jXrynZbuWV-gNkmHirG5Wj00UXDoqEpOpGsOy5CQ)
 
 
 # 📌 Informações Adicionais
