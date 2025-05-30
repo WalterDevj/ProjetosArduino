@@ -1,5 +1,12 @@
 # 📑 Descrição
-Projetos com
+Este projeto tem como objetivo simular o funcionamento de portas lógicas digitais utilizando botões físicos como entradas e um LED como saída visual. Cada montagem representa uma porta lógica diferente (AND, OR, NOT, NAND, NOR, XOR, XNOR), demonstrando na prática como os sinais digitais podem ser combinados para gerar diferentes comportamentos.
+
+# 🧠 O que o projeto ensina:
+<p>* Conceitos básicos de lógica digital</p>
+<p>* Uso de entradas digitais (botões) com INPUT_PULLUP</p>
+<p>* Controle de saídas digitais (LEDs) com digitalWrite()</p>
+<p>* Implementação prática de condições com if e operadores lógicos (&&, ||, !)</p>
+<p>* Introdução à lógica combinacional e suas aplicações em sistemas embarcados</p>
 
 # 📚 Pré-Requisitos
 ● Arduino Uno
